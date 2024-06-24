@@ -11,3 +11,8 @@ let idade = prompt ('digite sua idade');
 if (idade >=18) {
     alert('Pode tirar a Habilitação!')
 }
+
+alert = mostra uma mensagem 
+let = uma variável, que guarda as respostas e pode
+atribuír valores.
+if = faz comparação de respotas.
